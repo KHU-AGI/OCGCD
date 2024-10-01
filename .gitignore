@@ -1,0 +1,14 @@
+*.jpg
+*.npy
+*.png
+*.txt
+*.pth
+*.tar
+*.tar.gz
+*.out
+*.sh
+*.pt
+*.zip
+__pycache__
+
+train_copy.py
