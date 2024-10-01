@@ -4,7 +4,7 @@ Official PyTorch implementation for CVPR 2024 paper:[Paper](https://arxiv.org/ab
 
 **Online Continuous Generalized Category Discovery** 
 <!-- ![Main_Figure](figure/Main_Figure.png) -->
-<p align="center"><img src="Main_figure.jpg.jpg" width="80%" height="80%"/>
+<p align="center"><img src="Main_figure.jpg" width="80%" height="80%"/>
 
 
 # Environment
@@ -25,5 +25,6 @@ Official PyTorch implementation for CVPR 2024 paper:[Paper](https://arxiv.org/ab
 
 Our project referenced the code of the following repositories.
 We sincerely thanks to offering useful public code base.
--   [WaRP](https://github.com/EdwinKim3069/WaRP-CIFSL)
--   [FSCIL](https://github.com/xyutao/fscil)
+-   [GCD](https://github.com/sgvaze/generalized-category-discovery)
+-   [class-iNCD](https://github.com/OatmealLiu/class-iNCD)
+-   [CGCD](https://github.com/Hy2MK/CGCD/tree/main)
