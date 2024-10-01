@@ -7,7 +7,7 @@ Official PyTorch implementation for CVPR 2024 paper:[Paper](https://arxiv.org/ab
 <p align="center"><img src="Main_figure.jpg" width="80%" height="80%"/>
 
 
-# Environment
+## Environment
 
 - Python 3.9.x
 - PyTorch 1.12.0
@@ -16,12 +16,12 @@ Official PyTorch implementation for CVPR 2024 paper:[Paper](https://arxiv.org/ab
 - NVIDIA GeForce RTX 3090
 
 
-# Run the PriViLege
+## Run the OCGCD
 
     run.sh
 
 
-# Acknowledgements
+## Acknowledgements
 
 Our project referenced the code of the following repositories.
 We sincerely thanks to offering useful public code base.
