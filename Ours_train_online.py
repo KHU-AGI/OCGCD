@@ -171,8 +171,7 @@ if __name__ == '__main__':
     os.makedirs(pth_rst_exp, exist_ok=True)
 
     ####
-    # pth_dataset = '../datasets'
-    pth_dataset = '/local_datasets/khpark/AND'
+    pth_dataset = 'Your data path..'
     if args.dataset == 'cub':
         pth_dataset += '/CUB_200_2011'
     elif args.dataset == 'cifar100':
