@@ -9,6 +9,12 @@
 *.sh
 *.pt
 *.zip
+*.sh
 __pycache__
+
+
+CUB_200_2011
+fgvc-aircraft-2013b
+LICENSE
 
 train_copy.py
