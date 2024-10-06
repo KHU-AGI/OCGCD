@@ -13,7 +13,7 @@ With the advancement of deep neural networks in computer vision, artificial inte
 ## Environment
 
 - Python 3.9.x
-- PyTorch 1.12.0
+- PyTorch 2.0.0
 - timm 0.9.8
 - scikit-lean 1.3.2
 - NVIDIA GeForce RTX 3090
